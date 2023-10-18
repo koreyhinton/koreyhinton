@@ -1,4 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+### Korey's Holopin Board
+
+[![0Korey's Holopin board](https://holopin.io/api/user/board?user=koreyhinton)](https://holopin.io/0koreyhinton)
+
+
 
 <!--
 **koreyhinton/koreyhinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
