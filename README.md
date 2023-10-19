@@ -2,7 +2,7 @@
 
 ### Korey's Holopin Board
 
-[![0Korey's Holopin board](https://holopin.io/api/user/board?user=koreyhinton)](https://holopin.io/0koreyhinton)
+[![@Korey's Holopin board](https://holopin.io/api/user/board?user=koreyhinton)](https://holopin.io/@koreyhinton)
 
 
 
